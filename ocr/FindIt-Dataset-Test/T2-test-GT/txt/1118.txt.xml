@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="4" col="0" forged_value="SIRET:34876217700016"/>
+<fraud line="4" col="31" forged_value="TVA:FR04348762177"/>
+<fraud line="4" col="21" forged_value="NAF:5910A"/>
+<fraud line="5" col="6" forged_value="02.66.30.26.87"/>
+</document>

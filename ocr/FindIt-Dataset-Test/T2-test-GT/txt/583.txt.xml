@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="8" col="20" forged_value="5.37"/>
+<fraud line="10" col="19" forged_value="3.75"/>
+<fraud line="13" col="21" forged_value="5.30"/>
+<fraud line="14" col="0" forged_value="SECHE"/>
+<fraud line="14" col="6" forged_value="COUVERTS"/>
+<fraud line="17" col="21" forged_value="3.65"/>
+<fraud line="18" col="0" forged_value="*PHILADELPHIA"/>
+<fraud line="18" col="14" forged_value="LIGHT"/>
+<fraud line="19" col="21" forged_value="4.50"/>
+<fraud line="21" col="21" forged_value="3,25"/>
+<fraud line="23" col="32" forged_value="50.08"/>
+</document>

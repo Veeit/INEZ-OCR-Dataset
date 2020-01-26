@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="2" col="12" forged_value="SCIERIE"/>
+<fraud line="5" col="6" forged_value="06.46.27.02.12"/>
+<fraud line="10" col="0" forged_value="2"/>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="7" col="19" forged_value="3.25€"/>
+<fraud line="8" col="10" forged_value="430G"/>
+<fraud line="9" col="16" forged_value="0.55€"/>
+<fraud line="10" col="13" forged_value="MIE"/>
+<fraud line="10" col="6" forged_value="CANARD"/>
+<fraud line="11" col="20" forged_value="2.37€"/>
+<fraud line="13" col="23" forged_value="5.32€"/>
+<fraud line="15" col="19" forged_value="1.50€"/>
+</document>

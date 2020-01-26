@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="11" col="0" forged_value="553273 NOËL 20 SERV ROUGE 33X33 3 1,99"/>
+<fraud line="12" col="0" forged_value="503727 DOB ELLIPSE S/6 VERRE/APER 9,99"/>
+<fraud line="13" col="0" forged_value="553273 NOËL 20 SERV ROUGE 33X33 3 1,99"/>
+<fraud line="14" col="0" forged_value="503727 DOB ELLIPSE S/6 VERRE/APER 9,99"/>
+<fraud line="15" col="11" forged_value="6"/>
+<fraud line="15" col="13" forged_value="€31,98"/>
+<fraud line="16" col="0" forged_value=""/>
+<fraud line="16" col="12" forged_value="31,98"/>
+</document>
