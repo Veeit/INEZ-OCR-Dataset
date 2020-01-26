@@ -53,8 +53,8 @@
       "Product-Name",
       "Product-Price",
       "Product-Name",
-      "Product-Price,
-      "NONE,
+      "Product-Price",
+      "NONE",
       "Numder-of-Artcles",
       "NONE",
       "Total-Pay",
@@ -63,8 +63,8 @@
       "NONE",
       "NONE",
       "NONE",
-      "NONE,
-      "NONE,
+      "NONE",
+      "NONE",
       "NONE",
       "NONE:",
       "NONE",
@@ -137,7 +137,7 @@
       "Product-Price",
       "Product-Name",
       "Product-Price",
-      "Product-Name,
+      "Product-Name",
       "Product-Price",
       "Product-Name",
       "Product-Price",
@@ -210,7 +210,7 @@
     "Product-Name",
     "Product-Price",
     "Product-Name",
-    "Product-Price,
+    "Product-Price",
     "Numder-of-Artcles",
     "NONE",
     "Total-Pay",
@@ -275,15 +275,15 @@
      "Numder-of-Artcles",
      "NONE",
      "Total-Pay",
-     "NONE"
-     "NONE"
-     "NONE"
-     "NONE"
-     "NONE"
-     "NONE"
-     "Date"
-     "Time"
-     "NONE"
+     "NONE",
+     "NONE",
+     "NONE",
+     "NONE",
+     "NONE",
+     "NONE",
+     "Date",
+     "Time",
+     "NONE",
      "NONE"
    ]
   },
