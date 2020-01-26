@@ -1,0 +1,26 @@
+ESP 45
+FACTURE
+Restaurant McDonald's
+Tel.05.46.44.00.66 Fax.05.46.44.04.03
+SIRET 41503657300020 - APE 5? 10C
+RCS La Rochelle TVA INT? FR774150365036573
+ID Equipier 38
+Restaurant 25000683
+#CDE 45 – Caisse 5 – O7/O3/20? 12:44:49
+QTE PRODUIT UNIT TOTAL
+1 MxBO Fi?et-Fish 27.90 27.90
+1 Coke Max Best Of
+1 Potatoes MxBO
+1 Sc? Potatoes
+1 Echec CB 0.00
+A Emporter Total (TVA INCL) 27.90
+EUR 70,00
+Monnaie due: 12.?0
+02 7.?90 TVA A 10.00? INCL. = 0.72
+Merci de votre visite.
+Prenez quelques minutes
+dans les 7 prochains jours
+pour nous donner votre avis.
+il compte pour nous !
+RDV sur le site www.mcdoetmoi.com
+Merci de votre visite – A bientot

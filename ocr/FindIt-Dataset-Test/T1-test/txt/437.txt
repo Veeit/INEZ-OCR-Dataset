@@ -1,0 +1,17 @@
+city
+CRF-CITY LA ROCHELLE
+33 RUE DE LA SCIERIE
+17000 LA ROCHELLE
+Tel : 05.46.27.02.12
+DESCRIPTION QTE MONTANT
+*BISC.PT DEJ.CRF 2.16€
+1 ARTICLE(S) TOTAL A PAYER 2.16€
+CB EMV SANS CONTACT EUR 2.16€
+Si vous aviez la carte fidelité,
+vous auriez cumulé 0.11€ sur
+votre compte fidélité Carrefour.
+Details:
+5% produits Carrefou 0.11€
+0101 001 000052 23/03/2017 08:21:25
+MERCI DE VOTRE VISITE
+A BIENTOT

@@ -1,0 +1,29 @@
+ESP 67
+FACTURE
+Restaurant McDwnald’s
+LA ROCHELLE LES MINIMES
+Pole ?oisir des Minimes
+Rue de la Scierie
+17000 LA ROCHELLE
+Tel. 05.46.44.00.66 Fax. 05.46.44 .04.03
+SIRET 41503657300020 - APE 5: 10?
+RCS La Rochelle TVA INTRA FR774150.6573 -
+ID Equipier 212
+Restaurant 25000683
+#CDE 57 – Caisse 5 – 17/03/20?? 20:54:07
+QTE PRODUIT UNIT TOTA.
+1 MaxiMcFirstPoiss 5.65 5.65
+1 ? ds Mn
+? dans Mn
+? Sce Potatoes
+A Emporter Total (TVA ?) 5.65
+EUR 10.00
+Monnais due 4,35
+02 5.65 TVA A 10.00% INCL?,= 0.5
+Mercr de votre visite.
+Prenez quelques minutes
+dans les 7 prochains jours
+pour nous donner votre avis,
+il compte pour nous !
+RDV sur le site www.m?etmoi.com
+Merci de votre visite – A bientot

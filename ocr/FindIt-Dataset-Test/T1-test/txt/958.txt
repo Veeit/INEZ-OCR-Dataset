@@ -1,0 +1,17 @@
+ECHANGEUR 33 A10
+ASF 79360
+GRANZAY-GRIPT
+Tel : 3605
+RECU
+N° R2471053055411200248
+Date . . . . . . . . . . . . 03/09/16
+Sortie . . . . . . . . . . . . Virsac
+Entree . . . . . . . . . . . . Saintes
+Classe-tarif . . 1 km . . 106
+PRIX HT . . . . . . . 7,92 euros
+TVA 20.00%. … 1,58 euros
+PRIX TTC 9,50 euros
+RECU VALANT FACTURE
+COMPLETER AU VERSO
+Paiement . . . .9,50 E . . CB
+N° carte : . . . . . . . . . . 7386
