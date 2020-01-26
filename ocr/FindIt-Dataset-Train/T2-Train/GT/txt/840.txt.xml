@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="1" col="0" forged_value="TRUFFAUT"/>
+<fraud line="2" col="0" forged_value="Plus belle sera la Terre"/>
+<fraud line="3" col="0" forged_value="LA ROCHELLE"/>
+<fraud line="4" col="0" forged_value="Centre Commercial Bealieu"/>
+<fraud line="5" col="0" forged_value="17285 Puilboreau Cedex"/>
+<fraud line="6" col="0" forged_value="Tel : 05 46 68 11 18"/>
+<fraud line="7" col="0" forged_value="Inscrivez-vous à la newsletter"/>
+</document>

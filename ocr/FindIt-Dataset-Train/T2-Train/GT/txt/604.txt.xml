@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="2" col="22" forged_value="ECNARF"/>
+<fraud line="16" col="10" forged_value="13.90"/>
+<fraud line="23" col="20" forged_value="NETS"/>
+</document>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="1" col="0" forged_value="ISEO"/>
+<fraud line="2" col="0" forged_value=""/>
+<fraud line="15" col="11" forged_value="51,50"/>
+<fraud line="19" col="9" forged_value="55,09"/>
+<fraud line="22" col="7" forged_value="110,91"/>
+</document>

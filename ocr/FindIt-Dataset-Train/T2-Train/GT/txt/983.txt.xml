@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="10" col="23" forged_value="114.50"/>
+<fraud line="11" col="8" forged_value="114.50"/>
+<fraud line="12" col="11" forged_value="11.32"/>
+<fraud line="13" col="12" forged_value="114.50"/>
+</document>

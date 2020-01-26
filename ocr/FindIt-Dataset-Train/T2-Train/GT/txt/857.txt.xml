@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="5" col="15" forged_value="275"/>
+<fraud line="7" col="13" forged_value="18/10/2017"/>
+<fraud line="10" col="14" forged_value="1"/>
+<fraud line="10" col="3" forged_value="NOVALAC"/>
+<fraud line="10" col="11" forged_value="AR"/>
+<fraud line="11" col="8" forged_value="€9.50"/>
+<fraud line="12" col="8" forged_value="€10.50"/>
+<fraud line="13" col="4" forged_value="15%"/>
+<fraud line="14" col="8" forged_value="€8.43"/>
+<fraud line="15" col="6" forged_value="€10.75"/>
+</document>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="3" col="0" forged_value="83 AV ANTOINE ST EXUPERY"/>
+<fraud line="4" col="0" forged_value="31000 TOULOUSE"/>
+<fraud line="5" col="4" forged_value="05"/>
+</document>

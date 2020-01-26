@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="4" col="12" forged_value="lundi"/>
+<fraud line="4" col="21" forged_value="20h"/>
+<fraud line="5" col="23" forged_value="DEL"/>
+<fraud line="7" col="22" forged_value="1149.90"/>
+<fraud line="7" col="14" forged_value="1149.90"/>
+<fraud line="9" col="21" forged_value="1149.90"/>
+<fraud line="11" col="10" forged_value="1500.00"/>
+<fraud line="15" col="7" forged_value="1149,90"/>
+<fraud line="15" col="20" forged_value="1149.90"/>
+</document>

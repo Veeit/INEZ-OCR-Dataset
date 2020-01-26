@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="7" col="6" forged_value="PAIN"/>
+<fraud line="7" col="14" forged_value="MIE"/>
+<fraud line="7" col="11" forged_value="DE"/>
+<fraud line="7" col="0" forged_value="*500G"/>
+<fraud line="8" col="18" forged_value="1.78€"/>
+<fraud line="9" col="6" forged_value="GAL.EPEAUTRE"/>
+<fraud line="9" col="0" forged_value="*200G"/>
+<fraud line="10" col="15" forged_value="1.34€"/>
+<fraud line="11" col="27" forged_value="7.17€"/>
+</document>

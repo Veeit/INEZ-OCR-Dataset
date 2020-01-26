@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="6" col="0" forged_value="*900ML VANIL.PECAN 4.26€"/>
+<fraud line="9" col="27" forged_value="11.53€"/>
+<fraud line="10" col="24" forged_value="11.53€"/>
+</document>

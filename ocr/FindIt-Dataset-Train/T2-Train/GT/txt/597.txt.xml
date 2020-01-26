@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+<fraud line="2" col="0" forged_value="CRF-city LA ROCHELLE"/>
+<fraud line="3" col="0" forged_value="33 RUE DE LA SCIERIE"/>
+<fraud line="4" col="0" forged_value="17000 LA ROCHELLE"/>
+<fraud line="5" col="0" forged_value="Tel : 05.46.27.02.12"/>
+</document>
