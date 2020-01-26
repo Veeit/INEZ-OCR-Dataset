@@ -1,0 +1,24 @@
+BIENVENUE A CABLE CAR
+Serveur: 16115SYLVA
+Caissier: 16115SYLVa
+Terminal: 1004 Ticket No: 10043798
+Date: 16/4/2017 6:14
+Infos :
+Fast Foo?
+1 INSTANT CEL.CH 5.59
+1 *MUFF SCOOF NATU
+1 *THE*
+TOTAL: 5.59
+Dont TVA : 0.51
+Carte bancaire 5.59
+Date/heure: 16/4/2017 16:15
+EURO DISNEY ASSOCIES SCA – BP 100
+77777 Marne la Va?lee Cedex 4
+SIREN 397 471 822 – RCS MEAUX
+http ://www.disney andparis.com
+*** Detail des donnees TVA ***
+Taux TVA Mt.HT Mt.TVA Mt.TTC
+5.5% 0.0O 0.00 0.00
+10% 5.08 0.51 5.59
+20% 0.0O 0.00 0.00
+Totaux 5.08 0.51 5.59
